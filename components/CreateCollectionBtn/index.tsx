@@ -5,7 +5,7 @@ import { Button } from "../ui/button";
 import ContainerSide from "../ContainerSide";
 
 function CreateCollectionBtn() {
-  const [open, setOpen] = useState(true);
+  const [open, setOpen] = useState(false);
   const handleOpenChange = (open: boolean) => setOpen(open);
   console.log(open)
   console.log(handleOpenChange)
