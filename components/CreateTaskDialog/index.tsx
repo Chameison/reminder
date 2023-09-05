@@ -73,8 +73,8 @@ function CreateTaskDialog({
     <Dialog open={open} onOpenChange={openChangeWrapper}>
       <DialogContent className="sm:max-w-[425px]">
         <DialogHeader>
-          <DialogTitle className="flex gap-2">
-            Adicione uam tarefa a sua coleção:
+          <DialogTitle className="flex flex-col gap-4">
+            Adicione uma tarefa a sua coleção:
             <span
               className={cn(
                 "p-[1px] bg-clip-text text-transparent",

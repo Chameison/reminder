@@ -99,7 +99,7 @@ function ContainerSide({ open, onOpenChange }: ContainerSideProps) {
                 <FormItem>
                   <FormLabel>Nome</FormLabel>
                   <FormControl>
-                    <Input placeholder="Personal" {...field} />
+                    <Input placeholder="Nome" {...field} />
                   </FormControl>
                   <FormDescription>Nome da coleção</FormDescription>
                   <FormMessage />
