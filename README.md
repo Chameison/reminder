@@ -2,7 +2,7 @@
 
 ## Reminder
 
-#Seja bem-vindo ao projeto Reminder, desennvolvido
+#Seja bem-vindo ao projeto Reminder. Reminder é um simples gerenciador de tarefas, com coleçoes, onde você pode criar coleções e tarefas, além de conseguir visualizar o andamento, o app oferece um fácil acesso, pode entrar usando a conta do google por exemplo. 
 
 First, run the development server:
 
